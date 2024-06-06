@@ -44,7 +44,7 @@ button{
     width: 6em;
     height: 2.5em;
     margin: 10px;
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 600;
     font-family: 'Roboto Mono', monospace;
     background-color: rgb(231, 231, 231);
@@ -71,5 +71,8 @@ button:active{
     .nav{
         height: 4vh;
     font-size: 20px;
+    }
+    button{
+        font-size: 15px;
     }
  }
