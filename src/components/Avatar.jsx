@@ -1,6 +1,7 @@
 import Axios from "axios";
 import { useState } from "react";
 import { downloadAvatar } from "../utils/downloadAvatar";
+import "../avatar.css"
 const Avatar = () => {
   const [style, setStyle] = useState("bottts");
   const [seed, setSeed] = useState(1000);
