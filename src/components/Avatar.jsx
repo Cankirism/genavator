@@ -103,7 +103,13 @@ const Avatar = () => {
           </button>
         </div>
         <div style={{fontFamily:"serif"}} >
-            <p>Developed by Faruk GÜNGÖR </p>
+            <h7>
+            <p>
+               Developed by Faruk GÜNGÖR
+                </p>
+
+            </h7>
+           
         </div>
       </div>
     </div>
